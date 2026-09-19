@@ -20,3 +20,7 @@
 .languages h3{font-family:var(--serif);font-size:21px;font-weight:normal;margin:0 0 12px}
 .languages p{font-size:13px;margin:5px 0;color:var(--muted)}
 @media(max-width:1000px){.experience-row{grid-template-columns:43px minmax(0,1fr);gap:6px 18px}.experience-row time{grid-column:2;margin:0}.experience-row .company-mark{grid-row:1/3}}
+
+/* Frame the supplied portrait around the face without altering the photo. */
+.portrait:before,.portrait:after{display:none}
+.portrait img{position:absolute;width:240%;height:auto;max-width:none;left:-59%;top:-70%}
