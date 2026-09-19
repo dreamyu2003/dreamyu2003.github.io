@@ -14,7 +14,7 @@
 .experience-row .paper-link{margin-top:7px;font-size:11px}
 .conference-presentation{padding:3px 0 0}
 .conference-link{margin-top:0}
-.conference-presentation h4{font-family:var(--serif);font-size:20px;font-weight:normal;line-height:1.5;margin:12px 0 10px}
+.conference-presentation h4{font-family:var(--serif);font-size:18px;font-weight:normal;line-height:1.5;margin:12px 0 10px}
 .coauthors{font-size:12px;color:var(--muted);margin:0 0 15px}
 .presented-at{font-size:12px;color:var(--muted);line-height:1.9;margin:0}
 .languages h3{font-family:var(--serif);font-size:21px;font-weight:normal;margin:0 0 12px}
