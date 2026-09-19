@@ -15,10 +15,14 @@
 
 页面只采用 TeX 中未注释的履历内容；未公开手机号码，也未上传原始 TeX（其中有被注释掉的个人资料）。无外部字体、跟踪脚本或第三方前端依赖。
 
-源简历中 CUMCM 的日期为 2022 年 11 月，但代码链接路径为 CUMCM2023；此处保留原文日期及链接，后续可核对更新。
+后续根据本人提供的信息加入 DiDi Chuxing 研究实习与会议报告，移除竞赛列表，语言部分更新为 Mandarin (Native) 和 English (Fluent)。
 
 ## GitHub Pages
 
 用户站点仓库名为 `dreamyu2003.github.io`。将本目录文件放在仓库根目录，在 Settings → Pages 中选择 Deploy from a branch，分支 `main`、目录 `/ (root)`。`.nojekyll` 使站点作为普通静态文件发布。
 
 官方说明：https://docs.github.com/en/pages/quickstart
+
+## 本地文件与线上站点
+
+线上站点由 GitHub 仓库和 GitHub Pages 托管。删除电脑上的本地副本不会影响线上访问；日后可重新克隆仓库继续编辑。
