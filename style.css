@@ -23,4 +23,6 @@
 
 /* Frame the supplied portrait around the face without altering the photo. */
 .portrait:before,.portrait:after{display:none}
-.portrait img{position:absolute;width:240%;height:auto;max-width:none;left:-59%;top:-70%}
+.portrait{width:180px;height:210px;border-radius:8px}
+.portrait img{position:absolute;width:155%;height:auto;max-width:none;left:-22%;top:-39%}
+@media(max-width:700px){.sidebar{grid-template-columns:100px 1fr}.portrait{width:100px;height:120px}}
