@@ -27,4 +27,4 @@
 .portrait img{position:absolute;width:155%;height:auto;max-width:none;left:-22%;top:-39%}
 @media(max-width:700px){.sidebar{grid-template-columns:100px 1fr}.portrait{width:100px;height:120px}}
 
-.conference-heading{margin:33px 0 24px}
+.conference-heading{margin:60px 0 24px}
