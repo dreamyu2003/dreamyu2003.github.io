@@ -28,3 +28,4 @@
 @media(max-width:700px){.sidebar{grid-template-columns:100px 1fr}.portrait{width:100px;height:120px}}
 
 .conference-heading{margin:60px 0 24px}
+.conference-presentation + .conference-presentation{margin-top:28px}
